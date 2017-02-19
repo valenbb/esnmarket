@@ -1,3 +1,3 @@
-source 'https://supermarket.chef.io'
+source 'https://supermarket.myxingfu.net'
 
 metadata
