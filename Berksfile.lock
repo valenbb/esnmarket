@@ -1,0 +1,17 @@
+DEPENDENCIES
+  esnmarket
+    path: .
+    metadata: true
+
+GRAPH
+  chef-ingredient (1.0.0)
+  compat_resource (12.16.3)
+  esnmarket (0.1.0)
+    supermarket-omnibus-cookbook (~> 2.0.1)
+  fancy_execute (1.0.2)
+  hostsfile (2.4.5)
+  supermarket-omnibus-cookbook (2.0.1)
+    chef-ingredient (>= 0.21.2)
+    compat_resource (>= 12.14.3)
+    fancy_execute (>= 0.0.0)
+    hostsfile (>= 0.0.0)
